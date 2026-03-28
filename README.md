@@ -20,7 +20,7 @@ This project is designed to streamline supermarket operations by providing separ
 🛠️ Technologies Used:
 • Frontend: HTML, CSS, JavaScript
 • Backend: Python (Flask)
-• Database: SQLite / MySQL
+• Database:  MySQL
 
 🎯 Through this project, I gained hands-on experience in:
 • Full-stack web development
